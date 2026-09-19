@@ -33,25 +33,28 @@ class Program
         string salarioStr2 = salario.ToString();
         System.Console.WriteLine($"Salario Decimal: {salario}, Salario String2: {salarioStr2}");
 
-         if(idade > 18)
+        if (idade > 18)
         {
-            Console.WriteLine("Você é maior de idade.");
+            System.Console.WriteLine("Você é maior de idade.");
         }
         else if (idade == 18)
         {
-            Console.WriteLine("Você tem exatamente 18 anos.");
+            System.Console.WriteLine("Você tem exatamente 18 anos.");
         }
         else
         {
-            Console.WriteLine("Você é menor de idade.");
+            System.Console.WriteLine("Você é menor de idade.");
         }
 
         bool EMariorIdade = (idade >= 18) ? true : (idade == 18) ? true : false;
         string EMaiorIdadeStr = EMariorIdade ? "É maior de idade." : "É menor de idade.";
-        Console.WriteLine($"{EMaiorIdadeStr} : {EMariorIdade}");
+        System.Console.WriteLine($"{EMaiorIdadeStr} : {EMariorIdade}");
 
+        int[] numeros2 = { 1, 2, 3, 4, 5 };
         for (int i = 0; i < numeros2.Length; i++)
-
+        {
+            System.Console.WriteLine($"numeros2[{i}] = {numeros2[i]}");
+        }
     }
 }
 

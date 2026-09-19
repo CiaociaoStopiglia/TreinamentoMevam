@@ -12,3 +12,4 @@
 /Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.pdb
 /Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.genruntimeconfig.cache
 /Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/ref/Demo.Console.dll
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.sourcelink.json

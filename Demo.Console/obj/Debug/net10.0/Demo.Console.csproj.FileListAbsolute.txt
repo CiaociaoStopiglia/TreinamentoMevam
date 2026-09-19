@@ -1,0 +1,14 @@
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.AssemblyInfoInputs.cache
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.AssemblyInfo.cs
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.csproj.CoreCompileInputs.cache
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/bin/Debug/net10.0/Demo.Console
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/bin/Debug/net10.0/Demo.Console.deps.json
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/bin/Debug/net10.0/Demo.Console.runtimeconfig.json
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/bin/Debug/net10.0/Demo.Console.dll
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/bin/Debug/net10.0/Demo.Console.pdb
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.dll
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/refint/Demo.Console.dll
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.pdb
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/Demo.Console.genruntimeconfig.cache
+/Users/ricardo/Documents/Treinamento MEVAM/Demo.Console/obj/Debug/net10.0/ref/Demo.Console.dll
